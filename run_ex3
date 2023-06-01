@@ -1,0 +1,2 @@
+#!/bin/bash
+nextflow run iaradsouza1/TABIII-ex3 -with-tower -r main
